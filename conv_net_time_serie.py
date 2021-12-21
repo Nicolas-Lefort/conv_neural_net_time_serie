@@ -1,7 +1,7 @@
 # convolutional neural net, time serie classification, stocks
 # as expected, the model performed poorly (random walk ?), but we saw a
 # possible way to treat a multivariate time serie classification problem
-# improvement: k-means clustering for labeling, wavelet transform
+# improvement: labeling, wavelet transform
 
 import pandas as pd
 import matplotlib.pyplot as plt
